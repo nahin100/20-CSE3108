@@ -1,0 +1,3 @@
+iverilog Adder1bit.v Adder1bit_tb.v
+vvp a.out
+gtkwave test.vcd & 
